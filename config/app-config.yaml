@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Production Application Configuration
+=======
+>>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
 application:
   name: DevOpsSimulator
   version: 1.0.0
@@ -13,8 +16,8 @@ server:
 logging:
   level: INFO
   format: json
-  output: /var/log/app.log
   
+<<<<<<< HEAD
 database:
   host: prod-db.example.com
   port: 5432
@@ -64,3 +67,12 @@ notifications:
   discord_webhook: "https://discord.com/api/webhooks/YYY"
   email_alerts: false
 >>>>>>> dev
+=======
+# Development configuration (enabled via environment variable)
+development:
+  enabled: false
+  port: 3000
+  hot_reload: false
+  debug_mode: false
+  mock_apis: false
+>>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388

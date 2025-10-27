@@ -4,9 +4,16 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Version**: 1.0.0  
 **Environment**: Production  
 **Maintainer**: DevOps Team
+=======
+- **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
+- **Environments**: Production & Development
+- **Student**: [YOUR NAME]
+- **Student ID**: [YOUR ID]
+>>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
 
 =======
 **Version**: 2.0.0-beta  
@@ -22,13 +29,29 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 >>>>>>> dev
 ## Features
+
+### Core Features
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
 <<<<<<< HEAD
 
+### Production Features
+- SSL/TLS encryption
+- Auto-scaling
+- Load balancer integration
+- Scheduled backups
+
+### Development Features (Beta)
+-  Docker Compose integration
+-  Hot reload enabled
+-  Debug mode active
+-  Enhanced logging
+-  Mock external APIs
+
 ## Quick Start
+<<<<<<< HEAD
 1. Clone the repository
 2. Configure environment variables
 3. Run deployment script
@@ -70,3 +93,10 @@ Please read CONTRIBUTING.md before submitting pull requests.
 ## License
 MIT License
 >>>>>>> dev
+=======
+
+### Production Mode
+```bash
+export DEPLOY_ENV=production
+./scripts/deploy.sh
+>>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
