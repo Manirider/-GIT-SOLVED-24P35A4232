@@ -1,0 +1,44 @@
+* 55b4529 (HEAD -> main, origin/main) docs: Add changelog
+*   097647a Merge branch 'main' of https://github.com/Manirider/-GIT-SOLVED-24P35A4232
+|\  
+| * f8abcac Create Git_Journey.md
+* | 77ecbb9 docs: Add changelog
+| | * 7c67118 (origin/feature/another-feature, feature/another-feature) feat: Add test feature
+| |/  
+|/|   
+* | e386bbb (tag: v1.1.0, tag: v1.0.0) docs: Update README
+|/  
+| * a996c5e (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   0db40aa Resolved merge conflicts
+|\  
+| * 8f37d41 Update README.md
+| * 70b3872 Refactor architecture.md to emphasize production details
+| * 097e7dd Refactor monitor.js for production environment
+| * 96fbf4d Merge production and development deployment scripts
+| * 9054935 Update database-config.json
+| * b5bdd5b Update app-config.yaml
+* |   29ada8e merge: Resolve all conflicts between main and conflict-simulator branches
+|\ \  
+| |/  
+|/|   
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   6f77274 A Merge branch 'main' of https://github.com/Manirider/-GIT-SOLVED-25P35A4232
+|\ \  
+| * | be5811f Revise README with version and environment details
+| * | f8cb84f Update architecture.md
+| * | 9125af7 Enhance monitor.js for environment-specific configurations
+| * | 140321c Update deploy.sh
+| * | da3c876 Refactor database-config.json structure
+| * | dc1c92b Fix formatting in app-config.yaml
+| * | 5515981 Update app-config.yaml
+* | |   f07a3db merge: Resolve all conflicts between main and dev branches
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
