@@ -99,3 +99,5 @@ MIT License
 >>>>>>> conflict-simulator
 =======
 >>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
+## FAQ
+update
