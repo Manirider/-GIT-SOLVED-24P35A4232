@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Production Application Configuration
-=======
->>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
 application:
   name: DevOpsSimulator
   version: 1.0.0
@@ -17,57 +12,6 @@ logging:
   level: INFO
   format: json
   
-<<<<<<< HEAD
-database:
-  host: prod-db.example.com
-  port: 5432
-  name: devops_prod
-  
-features:
-  auto_scaling: true
-  load_balancer: enabled
-  backup_enabled: true
-=======
-# Development Application Configuration
-application:
-  name: DevOpsSimulator
-  version: 2.0.0-beta
-  environment: development
-  
-server:
-  host: localhost
-  port: 3000
-  ssl_enabled: false
-  hot_reload: true
-  
-logging:
-  level: DEBUG
-  format: pretty
-  output: console
-  show_stack_trace: true
-  
-database:
-  host: localhost
-  port: 5432
-  name: devops_dev
-  
-features:
-  auto_scaling: false
-  load_balancer: disabled
-  backup_enabled: false
-  experimental_features: true
-  
-development:
-  mock_external_apis: true
-  debug_mode: true
-  cors_enabled: true
-  
-notifications:
-  slack_webhook: "https://hooks.slack.com/services/XXX"
-  discord_webhook: "https://discord.com/api/webhooks/YYY"
-  email_alerts: false
->>>>>>> dev
-=======
 # Development configuration (enabled via environment variable)
 development:
   enabled: false
@@ -75,4 +19,3 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
->>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
