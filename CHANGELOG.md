@@ -1,4 +1,7 @@
-- e386bbb: docs: Update README (Manirider, 51 minutes ago)
+- 097647a: Merge branch 'main' of https://github.com/Manirider/-GIT-SOLVED-24P35A4232 (Manirider, 4 minutes ago)
+- 77ecbb9: docs: Add changelog (Manirider, 5 minutes ago)
+- f8abcac: Create Git_Journey.md (S.M.Suryasai, 5 minutes ago)
+- e386bbb: docs: Update README (Manirider, 55 minutes ago)
 - 0db40aa: Resolved merge conflicts (Manirider, 2 hours ago)
 - 29ada8e: merge: Resolve all conflicts between main and conflict-simulator branches (Manirider, 2 hours ago)
 - 8f37d41: Update README.md (S.M.Suryasai, 2 hours ago)
