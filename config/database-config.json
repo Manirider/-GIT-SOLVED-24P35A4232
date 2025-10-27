@@ -1,6 +1,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "connection": {
 <<<<<<< HEAD
     "host": "prod-db.example.com",
@@ -48,6 +49,8 @@
     "debug_queries": true
 >>>>>>> dev
 =======
+=======
+>>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
   "production": {
     "connection": {
       "host": "prod-db.example.com",
@@ -78,7 +81,6 @@
       "seed_data": true,
       "debug_queries": true
     }
->>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
   }
 }
 =======

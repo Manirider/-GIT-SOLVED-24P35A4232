@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Production Deployment Script
 # Version: 1.0.0
 =======
@@ -11,6 +12,8 @@
 
 =======
 >>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
+=======
+>>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
 set -e
 
 # Multi-Environment Deploy Script
@@ -18,6 +21,7 @@ set -e
 DEPLOY_ENV=${DEPLOY_ENV:-production}
 
 echo "====================================="
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 echo "DevOps Simulator - Production Deploy"
@@ -125,6 +129,8 @@ echo "Application available at: http://localhost:$APP_PORT"
 echo "Hot reload enabled - code changes will auto-refresh"
 >>>>>>> dev
 =======
+=======
+>>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
 echo "DevOps Simulator - Deployment"
 echo "====================================="
 
@@ -153,6 +159,7 @@ else
 fi
 
 echo "Deployment completed successfully!"
+<<<<<<< HEAD
 >>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
 =======
 # Validate multi-cloud configuration
@@ -198,3 +205,5 @@ echo "AI Dashboard: https://ai.example.com"
 echo "Multi-Cloud Status: https://clouds.example.com"
 echo "================================================"
 >>>>>>> conflict-simulator
+=======
+>>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
