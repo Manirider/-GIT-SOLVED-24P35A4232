@@ -1,18 +1,15 @@
 # DevOps Simulator
-
-<<<<<<< HEAD
 A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
 - **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
 - **Environments**: Production & Development
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
+- **Student**: MANIKANTA SURYASAI SUNKARA
+- **Student ID**: 24P35A4232
 
 ## Features
 
 ### Core Features
-=======
 **EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
 
 ## Project Status
@@ -29,16 +26,11 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🎯 Chaos engineering tools
 
 ## Legacy Features
->>>>>>> conflict-simulator
+instructor/conflict-simulator
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
 
 ### Production Features
 - SSL/TLS encryption
@@ -59,10 +51,6 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
-<<<<<<< HEAD
->>>>>>> be5811f8eb18d8e5064ec0b92e12db478764a388
-=======
-
 ## Quick Start - Advanced Mode
 ```bash
 # Install AI dependencies
@@ -96,8 +84,6 @@ See `/docs` folder and `/docs/ai-integration.md`
 
 ## License
 MIT License
->>>>>>> conflict-simulator
-=======
->>>>>>> 8f37d415b7869f6c89293ff42d1d24e394290791
+instructor/conflict-simulator
 ## FAQ
 update
