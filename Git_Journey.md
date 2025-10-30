@@ -3,9 +3,9 @@
 ## Student Information
 - Name: Manikanta Suryasai Sunkara
 - Student ID: 24P35A4232
-- Repository: [YOUR REPO URL
-- Date Started: [DATE]
-- Date Completed: [DATE]
+- Repository: https://github.com/Manirider/-GIT-SOLVED-24P35A4232
+- Date Started: 29/10/2025
+- Date Completed: 30/10/2025
 
 ## Task Summary
 Cloned instructor's repository with pre-built conflicts and resolved all 
